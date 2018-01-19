@@ -7,7 +7,11 @@ This is a personal guide for using git and GitHub.
 
 Text about Github comes here. 
 
-## Creating a new repository
+## Getting Started
+
+How to get started with GitHub in this section. 
+
+### Creating a new repository
 
 Create a **new directory** by executing the **init** command in the terminal: 
 
@@ -17,7 +21,7 @@ git init
 
 This creates the new repository. 
 
-## Checking out a repository
+### Checking out a repository
 
 To create a **copy** of an already existing repository, run the following command in the terminal: 
 
@@ -38,7 +42,11 @@ The repository consists of three **trees** (or structures).
 * Index --> a staging area.
 * HEAD --> a pointer to the last commit made. 
 
-## **add** and **commit**
+## Basic Commands
+
+This section introduces the basic commands. 
+
+### **add** and **commit**
 
 These commands are useful for proposing changes by adding them to your **Index**. 
 
@@ -64,7 +72,7 @@ The -m option allows you to include a message with the commit.
 
 The file(s) are now commited to the **HEAD**, but are still not in your remote repository. 
 
-## **push**
+### **push**
 
 In order to actually reflect the changes in your repository, you need to use the **push** command. 
 
