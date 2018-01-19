@@ -2,7 +2,7 @@
 
 This is a personal guide for using git and GitHub :bulb:. 
 * [About GitHub](#about-github) :closed_book:
-* [Getting Started](#getting-started) :tools:
+* [Getting Started](#getting-started) :wrench:
 * [Basic Commands](#basic-commands) :pencil:
 
 ## About GitHub
