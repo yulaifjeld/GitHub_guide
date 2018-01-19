@@ -1,4 +1,4 @@
-# GitHub_guide :bulb:
+# GitHub_guide :cat:
 
 This is a personal guide for using git and GitHub. 
 * [About GitHub](#about-github) :closed_book:
