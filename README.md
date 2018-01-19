@@ -1,6 +1,6 @@
-# GitHub_guide
+# GitHub_guide :bulb:
 
-This is a personal guide for using git and GitHub :bulb:. 
+This is a personal guide for using git and GitHub. 
 * [About GitHub](#about-github) :closed_book:
 * [Getting Started](#getting-started) :wrench:
 * [Basic Commands](#basic-commands) :pencil:
