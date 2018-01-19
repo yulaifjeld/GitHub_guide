@@ -2,6 +2,8 @@
 
 This is a personal guide for using git and GitHub. 
 * [About GitHub](#about-github)
+* [Getting Started](#getting-started)
+* [Basic Commands](#basic-commands)
 
 ## About GitHub
 
