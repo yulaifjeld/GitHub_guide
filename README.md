@@ -28,7 +28,10 @@ git clone username@host:/path/to/repository
 
 ## About the repository
 
-The repository consists of three **trees** (or structures). The first is the **Working Directory** wherein the actual files are kept. The second is the **Index**; a staging area. Lastly, you have **HEAD**; a pointer to the last commit made. 
+The repository consists of three **trees** (or structures). 
+	* **Working Directory** --> wherein the actual files are kept
+	* **Index** --> a staging area.
+	* **HEAD** --> a pointer to the last commit made. 
 
 ## **add** and **commit**
 
