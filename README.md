@@ -1,6 +1,10 @@
 # GitHub_guide
 
-This is a personal guide for using git and GitHub. 
+This is a personal guide for using git and GitHub. [about](#about-github)
+
+## About GitHub
+
+Text about Github comes here. 
 
 ## Creating a new repository
 
