@@ -7,7 +7,7 @@ This is a personal guide for using git and GitHub.
 
 ## About GitHub
 
-Text about Github comes here. 
+GitHub is an online hosting platform for code version control and collaboration. 
 
 ## Getting Started
 
